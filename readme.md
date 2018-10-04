@@ -7,3 +7,4 @@
 + [Blender Tutorial](https://www.youtube.com/watch?v=IPCNpi9x0_s&list=PL666B5C87C5BFC3E0)
 ## Wichtige/ interessante Links
 + [Internet Minijobbörse](https://www.fiverr.com/)
++ [Atom Editor](https://atom.io/)

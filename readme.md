@@ -1,10 +1,11 @@
 ## Letzten 5 Minuten 
-+ [Börsenübersicht](https://coin360.io/)
-+ [TheSimpleClub Youtube](https://www.youtube.com/user/TheSimpleClub)
++ [Börsenübersicht](https://coin360.io/) Phillip
++ [TheSimpleClub Youtube](https://www.youtube.com/user/TheSimpleClub) Luisa
 + [TheSimpleClub Playstore](https://play.google.com/store/apps/details?id=tv.nexx.android.thesimpleclub)
 + [TheSimpleClub AppStore](https://itunes.apple.com/de/app/thesimpleclub/id1089299986?mt=8)
-+ [Blender Programm](https://www.blender.org/)
++ [Blender Programm](https://www.blender.org/) Fabian
 + [Blender Tutorial](https://www.youtube.com/watch?v=IPCNpi9x0_s&list=PL666B5C87C5BFC3E0)
++ [Humanbrainproject](https://www.humanbrainproject.eu/en/) Phillip
 ## Wichtige/ interessante Links
-+ [Internet Minijobbörse](https://www.fiverr.com/)
-+ [Atom Editor](https://atom.io/)
++ [Internet Minijobbörse](https://www.fiverr.com/) Herr Ramsl
++ [Atom Editor](https://atom.io/) Herr Ramsl

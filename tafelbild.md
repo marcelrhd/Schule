@@ -5,7 +5,7 @@
 * Das main-tag enthält den Hauptsächlichen Inhalt einer Webseite.
 ![Main](https://kens9a.am.files.1drv.com/y4moPT1pZN-6sfQyfHn_t-SmAae8BMjap6VpG6LIN4q3ZEAmhB8Vrj0EH057Mx2YVgoWh2wYRuisU55ymz0XEh7nR2XvXoQDIz6PGiC5_hfoqJOkGn8oQsZWwfLTDY3tBfhfPMJV7NpJYKWmQvypnwgA-tdgSeChaU6EcZzy-YYzXMxDEfjaCSrOuec5Ga_8i4AgqzQTwQIInmR3HewdRc5TA?width=1004&height=405&cropmode=none)
 3. Header
-* Das header-tag den Kopfteil einer webseite darunter kann der Name einer Seite und /oder auch ein Logo darin vorkommen.
+* Das header-tag den Kopfteil einer webseite darunter kann der Name einer Seite und /oder auch ein Logo darin vorkommen. (-> nicht der Head-tag)
 ![Header](https://kenr9a.am.files.1drv.com/y4mvsmutF3TXAomvPet_OdBrdPppRVRsxz1IxzbbeaIRdQX0SZQmBrKN5VRukxC6ZtUx_9k94r141k7R0DEbt6MFL3y9F8Aj39w0BY4edIFsXHIm3bSavIGBVb_KUfVG8b9mE9dw49tDH4ZV8XAUXLD8mNhhEVF9P6tEFZ3K7__xi-34clGdPs77P-mKFjSmGj6DeKHd-2mqacNBkDChFjuUg?width=1005&height=329&cropmode=none)
 4. Footer
 * Das footer-tag enthält die Information, die am Ende einer Webseite stehen wie z.B. Autor, Hinweise zum Urheberrecht, ein Link zum Impressum.

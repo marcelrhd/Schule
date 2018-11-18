@@ -6,6 +6,9 @@
 * Beschreibungen zu den Bildern
 * Nav Leiste
 .* Ideen was ich noch Photgrefieren möchte (vielleicht mit Anleitungen/ Bildern aus dem Internet).
+* Tab mit Links zu Produkten die ich Nutze
+* "Tab zu Technik Blog"
+* Wikipedia einbindung zu Pflanzen/ Rassen
 ## Code Anforderungen.
 * CSS
 .* Gestaltung der Webseite als Photoblog.

@@ -12,5 +12,5 @@ Das Modul sa bedeutet, dass, das Lizensobjekt nur unter der gleichen Lizenz weit
 
 Die Lizenzen können zudem auch noch Kombiniert werden, ein Beispiel dafür ist diese Grafik von Wikipedia:
 
-![alt text](https://de.wikipedia.org/wiki/Creative_Commons#/media/File:Creative_Commons_Lizenzspektrum_DE.svg "Logo Title Text 1")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Creative_Commons_Lizenzspektrum_DE.svg/512px-Creative_Commons_Lizenzspektrum_DE.svg.png "Wikipedia Lizenzkombinationen")
 

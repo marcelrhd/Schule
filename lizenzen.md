@@ -8,7 +8,7 @@ Das Modul nd bedeutet, dass, das Lizenz Objekt nicht verändert/ bearbeitet werd
 4. da
 Das Modul sa bedeutet, dass, das Lizenz Objekt nur unter der gleichen Lizenz weitergegeben werden darf (Share Alike).
 
-Die Lizenzen können zudem auch noch kombiniert werden, ein Beispiel dafür ist diese Grafik von Wikipedia:
+Die Lizenzen können kombiniert werden, ein Beispiel dafür ist diese Grafik von Wikipedia:
 
 ![alttext](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Creative_Commons_Lizenzspektrum_DE.svg/512px-Creative_Commons_Lizenzspektrum_DE.svg.png "Wikipedia Lizenzkombinationen")
 

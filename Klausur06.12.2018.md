@@ -106,13 +106,12 @@ li= List item
 ##### Listenformation
 * Für ungeordnete Listen (HTML ul) und geornete Listen (HTML ol)
 * Wichtige Werkzeuge des Webdesigns
-
-list-style-type: 
-ul mit disk, cycle, square  
-ol mit Ziffer oder Buchstabe  
-list-style-position: Aufzählungssymbol in die Box für listenelemente einzieren  
-list-style-image: setzt ein Bild anstelle des Listensymbols in ul-Listen  
-none: kein Listensymbol  
+  * list-style-type: 
+   * ul mit disk, cycle, square  
+   * ol mit Ziffer oder Buchstabe  
+  * list-style-position: Aufzählungssymbol in die Box für listenelemente einzieren  
+  * list-style-image: setzt ein Bild anstelle des Listensymbols in ul-Listen  
+  * none: kein Listensymbol  
 
 ### Aufschrieb 7-9
 1. Body
@@ -156,7 +155,3 @@ none: kein Listensymbol
    <tr> <th>Gauda</tr> <td>Sardelle</td> </tr> 
 </table>
 ```
-
-
-
-

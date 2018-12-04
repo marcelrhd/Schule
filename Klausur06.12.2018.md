@@ -19,7 +19,7 @@
 * Zeilenumbruch (Inline Element)
 3. Schriftschnitte
 * ```html <strong> Text </strong> ```
-..* Text stark Hevorgehoben
+** Text stark Hevorgehoben
 * ```html <em> Text </em> ```
 ..* Text Hervorgehoben
 * ```html <sup> Text </sup> ```

@@ -21,11 +21,11 @@
 * ```html <strong> Text </strong> ```
   * Text stark Hevorgehoben
 * ```html <em> Text </em> ```
-..* Text Hervorgehoben
+  * Text Hervorgehoben
 * ```html <sup> Text </sup> ```
-..* Text wird Hochgestellt
+  * Text wird Hochgestellt
 * ```html <sub> Text </sub> ```
-..* Text wird Tiefgestellt
+  * Text wird Tiefgestellt
 5. ```html <div class ="name"> Text </div> ```
 * Verwendet Textauszeichnung aus der Klasse "name" aus der CSS-Datei (Blockelement)
 6. ```html <div id = "name"> Text </div> ```

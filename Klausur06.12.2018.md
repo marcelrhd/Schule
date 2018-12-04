@@ -93,11 +93,13 @@ ol= Ordered list
 </ol>
 ```
 
-* Ingeordnete Liste
-```html <ul>
-```        <li>Taddi</li> ```
-```        <li>Luisa</li> ```
-```     </ul> ```
+* Ungeordnete Liste
+```html 
+<ul>
+   <li>Taddi</li> 
+   <li>Luisa</li> 
+</ul> 
+```
 ul= Unordered list
 li= List item
 
@@ -146,11 +148,13 @@ none: kein Listensymbol
 <th> = Table header
  
  z.B. 
-```html <table> ```
-```html   <tr> <th>käse</th> <th>Fisch</th> </tr> ```
-```html    <tr> <th>Cheddar</tr> <td>Lachs</td> </tr> ```
-```html    <tr> <th>Gauda</tr> <td>Sardelle</td> </tr> ```
-```html </table> ```
+```html
+<table>
+   <tr> <th>käse</th> <th>Fisch</th> </tr> 
+   <tr> <th>Cheddar</tr> <td>Lachs</td> </tr> 
+   <tr> <th>Gauda</tr> <td>Sardelle</td> </tr> 
+</table>
+```
 
 
 

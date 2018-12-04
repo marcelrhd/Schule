@@ -62,6 +62,7 @@ Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es w
 * http://www....
 * Immer eindeutig, egal von wo dieser Link gesetzt wird und setzt voraus, dass sich diese Seite bereits auf dem Server im Netz befindet
   * ```html <img src="https://onedrive.live.com/embed?cid=17FF704AFAC26C81&resid=17FF704AFAC26C81%2174170&authkey=ADDtyIc2RJjuZzU" />```
+![git-workflow](https://github.com/marcelrhd/Schule/blob/master/grafiken.jpg)  
 ### Aufschrieb 5
 ```html 
 <html>

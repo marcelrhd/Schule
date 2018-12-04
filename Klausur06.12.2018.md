@@ -30,7 +30,7 @@
 * Verwendet Textauszeichnung aus der Klasse "name" aus der CSS-Datei (Blockelement)
 6. ```html <div id = "name"> Text </div> ```
 * Wie calss aber ID darf es nur einmal geben, da ID eindeutig ist kann sie in Hyperlinks verwendet werden
-### Aufschrieb 3
+### Aufschrieb 2
 #### CSS
 * Der Sinn: Trennung von Inhalt und Design
 * Hintergrundfarbe: 
@@ -40,5 +40,13 @@
 ```CSS   body { font-fmaily: 'open Sans', sans-serif; ```
 * Textausrichtung:
 ```CSS body { text-align: center; } ```
-
+* Textfarbe:
+```CSS body {color: yellow;} ```
+### Aufschrieb 3
+1. Github 
+Github ist eine Plattform, auf der man Opnesource Software veröffentlichen kann, es ermöglicht die Zusammenarbeit von Entwicklern Wletweit.
+2. Git
+Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es wird heutzutage von den meisten profesionellen Softwareanbietern benutzt.
+3 Git Workflow
+![git-workflow](https://onedrive.live.com/embed?cid=17FF704AFAC26C81&resid=17FF704AFAC26C81%2174170&authkey=ADDtyIc2RJjuZzU)
 

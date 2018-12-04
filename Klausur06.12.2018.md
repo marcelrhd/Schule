@@ -30,3 +30,15 @@
 * Verwendet Textauszeichnung aus der Klasse "name" aus der CSS-Datei (Blockelement)
 6. ```html <div id = "name"> Text </div> ```
 * Wie calss aber ID darf es nur einmal geben, da ID eindeutig ist kann sie in Hyperlinks verwendet werden
+### Aufschrieb 3
+#### CSS
+* Der Sinn: Trennung von Inhalt und Design
+* Hintergrundfarbe: 
+``` CSS body { backround-color: blue; } ```
+* Schriftfarbe:
+```CSS  { @import url('https://...'); ```
+```CSS   body { font-fmaily: 'open Sans', sans-serif; ```
+* Textausrichtung:
+```CSS body { text-align: center; } ```
+
+

@@ -13,8 +13,8 @@
 + [Driver-Booster](https://www.iobit.com/en/driver-booster.php) Aaron
 + [Lightroom CC(Smartphone) Android](https://play.google.com/store/apps/details?id=com.adobe.lrmobile) Marcel
 + [Lightroom CC(Smartphone) AppStore](https://itunes.apple.com/de/app/adobe-lightroom-cc/id878783582?mt=8) Marcel
-+ [scoolio Android](https://play.google.com/store/apps/details?id=de.scoolio.app)
-+ [scoolio Appstore](https://itunes.apple.com/us/app/id1092019181?l=de&ls=1&mt=8)
++ [scoolio Android](https://play.google.com/store/apps/details?id=de.scoolio.app) Milia
++ [scoolio Appstore](https://itunes.apple.com/us/app/id1092019181?l=de&ls=1&mt=8) Milia
 
 ## Wichtige/ interessante Links
 + [Internet Minijobbörse](https://www.fiverr.com/) Herr Ramsl

@@ -10,7 +10,7 @@
 * semantic-html 2
 * semantic-html 3
 * tabellen
-## Aufschrieben von Hannah
+## Aufschriebe von Hannah
 > “Informatik HTML Aufschriebe 2018” by [HannahKup](https://github.com/HannahKup) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 ### Aufschrieb 1
 1. ```html <p> Absatztext </p> ```

@@ -87,14 +87,14 @@ Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es w
 * Geordnete Liste
 ol= Ordered list
 ```html <ol>
-           <li>Taddi</li>
-           <li>Luisa</li>
-        </ol>```
+```       <li>Taddi</li> ```
+```       <li>Luisa</li> ```
+```     </ol>```
 * Ingeordnete Liste
 ```html <ul>
-           <li>Taddi</li>
-           <li>Luisa</li>
-        </ul>```
+```        <li>Taddi</li> ```
+```        <li>Luisa</li> ```
+```     </ul> ```
 ul= Unordered list
 li= List item
 
@@ -107,6 +107,7 @@ list-style-type: ul mit disk, cycle, square
 list-style-position: Aufzählungssymbol in die Box für listenelemente einzieren
 list-style-image: setzt ein Bild anstelle des Listensymbols in ul-Listen
 none: kein Listensymbol
+
 ### Aufschrieb 7-9
 1. Body
 * Das body-Element enthält den anzuzeigenden/darzustellenden Inhalt eines HTML-Dokumentes. Die folgenden tags können im Body vorkommen.
@@ -142,13 +143,12 @@ none: kein Listensymbol
 <th> = Table header
  
  z.B. 
- ```html
- <table>
-    <tr> <th>käse</th> <th>Fisch</th> </tr>
-    <tr> <th>Cheddar</tr> <td>Lachs</td> </tr>
-    <tr> <th>Gauda</tr> <td>Sardelle</td> </tr>
-</table>
-```
+```html <table> ```
+```html   <tr> <th>käse</th> <th>Fisch</th> </tr> ```
+```html    <tr> <th>Cheddar</tr> <td>Lachs</td> </tr> ```
+```html    <tr> <th>Gauda</tr> <td>Sardelle</td> </tr> ```
+```html </table> ```
+
 
 
 

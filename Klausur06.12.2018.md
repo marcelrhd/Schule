@@ -86,10 +86,13 @@ Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es w
 #### Listen
 * Geordnete Liste
 ol= Ordered list
-```html <ol>
-```       <li>Taddi</li> ```
-```       <li>Luisa</li> ```
-```     </ol>```
+```html 
+<ol>
+   <li>Taddi</li> 
+   <li>Luisa</li> 
+</ol>
+```
+
 * Ingeordnete Liste
 ```html <ul>
 ```        <li>Taddi</li> ```

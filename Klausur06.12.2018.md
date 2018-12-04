@@ -13,20 +13,20 @@
 ## Aufschrieben von Hannah
 > “Informatik HTML Aufschriebe 2018” by [HannahKup](https://github.com/HannahKup) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 ### Aufschrieb 1
-1. <p> Absatztext </p>
-.* Absatz (paragrapgh) mit Zeilenumbruch (ist ein Blockelement)
-2. <br>
-.* Zeilenumbruch (Inline Element)
+1. ```html <p> Absatztext </p> ```
+* Absatz (paragrapgh) mit Zeilenumbruch (ist ein Blockelement)
+2. ```html <br> ```
+* Zeilenumbruch (Inline Element)
 3. Schriftschnitte
-.* <strong> Text </strong>
+* ```html <strong> Text </strong> ```
 ..* Text stark Hevorgehoben
-.* <em> Text </em> 
+* ```html <em> Text </em> ```
 ..* Text Hervorgehoben
-.* <sup> Text </sup>
+* ```html <sup> Text </sup> ```
 ..* Text wird Hochgestellt
-.* <sub> Text </sub>
+* ```html <sub> Text </sub> ```
 ..* Text wird Tiefgestellt
-5. <div class ="name"> Text </div>
-.* Verwendet Textauszeichnung aus der Klasse "name" aus der CSS-Datei (Blockelement)
-6. <div id = "name"> Text </div>
-.* Wie calss aber ID darf es nur einmal geben, da ID eindeutig ist kann sie in Hyperlinks verwendet werden
+5. ```html <div class ="name"> Text </div> ```
+* Verwendet Textauszeichnung aus der Klasse "name" aus der CSS-Datei (Blockelement)
+6. ```html <div id = "name"> Text </div> ```
+* Wie calss aber ID darf es nur einmal geben, da ID eindeutig ist kann sie in Hyperlinks verwendet werden

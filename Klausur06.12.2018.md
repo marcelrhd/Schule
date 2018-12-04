@@ -48,7 +48,7 @@ Github ist eine Plattform, auf der man Opnesource Software veröffentlichen kann
 2. Git
 Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es wird heutzutage von den meisten profesionellen Softwareanbietern benutzt.
 3. Git Workflow
-```html <img src="https://onedrive.live.com/embed?cid=17FF704AFAC26C81&resid=17FF704AFAC26C81%2174170&authkey=ADDtyIc2RJjuZzU" />```
+![git-workflow](https://1drv.ms/u/s!AoFswvpKcP8XhMM6GfVVAbefSO5JuQ)
 ### Aufschrieb 4
 #### Graphiken
 * Elemente in eine HTML-Datei einbinden (relativer vs. absoluter Pfad)

@@ -49,3 +49,16 @@ Github ist eine Plattform, auf der man Opnesource Software veröffentlichen kann
 Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es wird heutzutage von den meisten profesionellen Softwareanbietern benutzt.
 3. Git Workflow
 <img src="https://onedrive.live.com/embed?cid=17FF704AFAC26C81&resid=17FF704AFAC26C81%2174170&authkey=ADDtyIc2RJjuZzU" />
+### Aufschrieb 4
+#### Graphiken
+* Elemente in eine HTML-Datei einbinden (relativer vs. absoluter Pfad)
+##### Relativer Pfad
+* steht in Realation zum Ausgangspunkt
+* Man liest von unten nach oben
+* trennt mit -> /
+* ```html <img src ="projekte/images/delphine/delphin.gif"/> ```
+##### Absoluter Pfad
+* die URL (Uniform Resource Location) zur Seite
+* http://www....
+* Immer eindeutig, egal von wo dieser Link gesetzt wird und setzt voraus, dass sich diese Seite bereits auf dem Server im Netz befindet
+  * ```html <img src="https://onedrive.live.com/embed?cid=17FF704AFAC26C81&resid=17FF704AFAC26C81%2174170&authkey=ADDtyIc2RJjuZzU" /> ```

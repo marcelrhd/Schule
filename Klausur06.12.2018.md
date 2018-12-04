@@ -104,8 +104,8 @@ ul= Unordered list
 li= List item  
 
 ##### Listenformation
-Für ungeordnete Listen (HTML ul) und geornete Listen (HTML ol)
-Wichtige Werkzeuge des Webdesigns
+Für ungeordnete Listen (HTML ul) und geornete Listen (HTML ol)  
+Wichtige Werkzeuge des Webdesigns:
 * list-style-type: 
   * ul mit disk, cycle, square  
   * ol mit Ziffer oder Buchstabe  

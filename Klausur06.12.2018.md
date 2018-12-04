@@ -143,9 +143,11 @@ Wichtige Werkzeuge des Webdesigns:
 ![Address](https://j0nv9a.am.files.1drv.com/y4m_-YVV6ikcJpJQpmY5gRIPtxl6kkiPbL4__XTDDnoh0X4bFGd16xGhYQXXNw9_5PnSm5axCGMpw3Ds8XIJeEhZaOGDD4iB4QpHanvmJUOmd-Zm_J9AN_SWnQnNqB4zYqhlP_E5j_Bwa-vGKbkISbAcTxbnF8uMG9068KXVYb1JzkI5ilTsdGoU4oPetiMXh_q3B3KpLveIUYvawtJuH-3Nw?width=1006&height=673&cropmode=none)
 ### Aufschrieb 10
 #### Tabellen
+```html
 <tr> = Table row  
 <td> = Table data  
 <th> = Table header  
+```
  
  z.B. 
 ```html

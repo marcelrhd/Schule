@@ -50,13 +50,14 @@ Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es w
 3. Git Workflow
 ![git-workflow](https://github.com/marcelrhd/Schule/blob/master/github-git.jpg)
 ### Aufschrieb 4
-#### Graphiken
+#### Grafiken
 * Elemente in eine HTML-Datei einbinden (relativer vs. absoluter Pfad)
 ##### Relativer Pfad
 * steht in Realation zum Ausgangspunkt
 * Man liest von unten nach oben
 * trennt mit -> /
 * ```html <img src ="projekte/images/delphine/delphin.gif"/>```
+![grafiken](https://github.com/marcelrhd/Schule/blob/master/grafiken.jpg)  
 ##### Absoluter Pfad
 * Die URL (Uniform Resource Location) zur Seite
 * http://www....

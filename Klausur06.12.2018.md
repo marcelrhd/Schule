@@ -160,6 +160,15 @@ Wichtige Werkzeuge des Webdesigns:
 </table>
 ```
 ### Lizenzen
+#### Rechtliche Grundlagen
+1. Impressum (Kontaktierbar) (Antwort innerhalb von 60min)
+In Deutschland ist ein Impressum Pflicht wenn man "geschäftsmäßige" Telemedien anbietet. Für private zwecke ist es nicht notwendig.
+2. Disclaimer (Distanzierung von Links)
+Der Begriff Disclaimer wird im Internetrecht als Fachausdruck für einen Haftungsausschluss verwendet.
+3. Urheberrecht
+Persönlich geistige Schöpfungen werden Besonders Geschützt Bsp. Texte, Photos, Musik, Filme, Pl-Programme, Publikationen.
+4. Creative Commons (CC)
+CC sind Standard-Lizenzverträge, mit denen man einfach nutzungsrechte einräumen kann.
 #### Rechtemodule
 1. by
 Das Modul by deutet darauf hin, dass eine Namensnennung (Attribution) des Urhebers bei Verwendung des Lizenz Objektes stattfinden muss.

@@ -1,10 +1,10 @@
 # Klausur 06.12.2018
 ## Klausurthemen
 * absatz-zeilenumbruch
-* css
-* github-git
-* grafiken
-* html-grundstruktur
+* CSS
+* Github-git
+* Grafiken
+* HTML-Grundstruktur
 * listen
 * semantic-html 1
 * semantic-html 2
@@ -15,18 +15,18 @@
 > “Informatik HTML Aufschriebe 2018” by [HannahKup](https://github.com/HannahKup) is licensed under [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 ### Aufschrieb 1
 1. ```html <p> Absatztext </p> ```
-* Absatz (paragrapgh) mit Zeilenumbruch (ist ein Blockelement)
+* Absatz (Paragraph) mit Zeilenumbruch (ist ein Blockelement)
 2. ```html <br> ```
 * Zeilenumbruch (Inline Element)
 3. Schriftschnitte
 * ```html <strong> Text </strong> ```
-  * Text stark Hevorgehoben
+  * Text stark hervorgehoben
 * ```html <em> Text </em> ```
-  * Text Hervorgehoben
+  * Text hervorgehoben
 * ```html <sup> Text </sup> ```
-  * Text wird Hochgestellt
+  * Text wird hochgestellt
 * ```html <sub> Text </sub> ```
-  * Text wird Tiefgestellt
+  * Text wird tiefgestellt
 5. ```html <div class ="name"> Text </div> ```
 * Verwendet Textauszeichnung aus der Klasse "name" aus der CSS-Datei (Blockelement)
 6. ```html <div id = "name"> Text </div> ```
@@ -45,16 +45,16 @@
 ```CSS body {color: yellow;} ```
 ### Aufschrieb 3
 1. Github 
-Github ist eine Plattform, auf der man Opnesource Software veröffentlichen kann, es ermöglicht die Zusammenarbeit von Entwicklern Wletweit.
+Github ist eine Plattform, auf der man Opensource Software veröffentlichen kann, es ermöglicht die Zusammenarbeit von Entwicklern Weltweit.
 2. Git
-Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es wird heutzutage von den meisten profesionellen Softwareanbietern benutzt.
+Git ist ein Versionskontrollsystem, das Zentral und dezentral agieren kann. Es wird heutzutage von den meisten professionellen Softwareanbietern benutzt.
 3. Git Workflow
 ![git-workflow](https://github.com/marcelrhd/Schule/blob/master/github-git.jpg)
 ### Aufschrieb 4
 #### Grafiken
 * Elemente in eine HTML-Datei einbinden (relativer vs. absoluter Pfad)
 ##### Relativer Pfad
-* steht in Realation zum Ausgangspunkt
+* steht in Relation zum Ausgangspunkt
 * Man liest von unten nach oben
 * trennt mit -> /
 * ```html <img src ="projekte/images/delphine/delphin.gif"/>```
@@ -106,12 +106,12 @@ ul= Unordered list
 li= List item  
 
 ##### Listenformation
-Für ungeordnete Listen (HTML ul) und geornete Listen (HTML ol)  
+Für ungeordnete Listen (HTML ul) und geordnete Listen (HTML ol)  
 Wichtige Werkzeuge des Webdesigns:
 * list-style-type: 
   * ul mit disk, cycle, square  
   * ol mit Ziffer oder Buchstabe  
-* list-style-position: Aufzählungssymbol in die Box für listenelemente einzieren  
+* list-style-position: Aufzählungssymbol in die Box für listen Elemente einzieren  
 * list-style-image: setzt ein Bild anstelle des Listensymbols in ul-Listen  
 * none: kein Listensymbol  
 
@@ -123,7 +123,7 @@ Wichtige Werkzeuge des Webdesigns:
 * Das main-tag enthält den Hauptsächlichen Inhalt einer Webseite.
 ![Main](https://kens9a.am.files.1drv.com/y4moPT1pZN-6sfQyfHn_t-SmAae8BMjap6VpG6LIN4q3ZEAmhB8Vrj0EH057Mx2YVgoWh2wYRuisU55ymz0XEh7nR2XvXoQDIz6PGiC5_hfoqJOkGn8oQsZWwfLTDY3tBfhfPMJV7NpJYKWmQvypnwgA-tdgSeChaU6EcZzy-YYzXMxDEfjaCSrOuec5Ga_8i4AgqzQTwQIInmR3HewdRc5TA?width=1004&height=405&cropmode=none)
 3. Header
-* Das header-tag den Kopfteil einer webseite darunter kann der Name einer Seite und /oder auch ein Logo darin vorkommen. (-> nicht der Head-tag)
+* Das header-tag den Kopfteil einer Webseite darunter kann der Name einer Seite und /oder auch ein Logo darin vorkommen. (-> nicht der Head-tag)
 ![Header](https://kenr9a.am.files.1drv.com/y4mvsmutF3TXAomvPet_OdBrdPppRVRsxz1IxzbbeaIRdQX0SZQmBrKN5VRukxC6ZtUx_9k94r141k7R0DEbt6MFL3y9F8Aj39w0BY4edIFsXHIm3bSavIGBVb_KUfVG8b9mE9dw49tDH4ZV8XAUXLD8mNhhEVF9P6tEFZ3K7__xi-34clGdPs77P-mKFjSmGj6DeKHd-2mqacNBkDChFjuUg?width=1005&height=329&cropmode=none)
 4. Footer
 * Das footer-tag enthält die Information, die am Ende einer Webseite stehen wie z.B. Autor, Hinweise zum Urheberrecht, ein Link zum Impressum.
@@ -132,7 +132,7 @@ Wichtige Werkzeuge des Webdesigns:
 * Das nav-tag beinhaltet Navigationsleisten und Menüs.
 ![Nav](https://j0nz9a.am.files.1drv.com/y4mH7AZZEypSKUrpK1afEXmIifkDq1PrWeHVjBFP51V_unGQohfbJpr2BzqF3nhfJ4guExjRNbI29XDDq7HoaC-yMO7PcUQBSNDFWv9DB_jjSZaUiSJpV1e1h9OhXYxiW-e4a4nBuUUg09-lSYBp_lqJdJWqjMAdmg8C_k9RZNCg2phYrhIsvE1js7e7z34Wg4xtwtFFi3kVTP6RpjgtmxRHQ?width=1005&height=419&cropmode=none)
 6. Arcticle
-* Das article-tag beeinhaltet die Funktion dass z.B. Zeitungsartikel auf einer Webseite dargestellt werden können.
+* Das article-tag beinhaltet die Funktion, dass z.B. Zeitungsartikel auf einer Webseite dargestellt werden können.
 ![Arcticle](https://j0n29a.am.files.1drv.com/y4mGr1K-324h8pcSdqCCYrxibDOUsdtA_78E2k5hQuRosFRKqsF5Lb1CuzcLpBLV8PO7KE0l-1vVPYJXHlfyuD89Pzz5U3pBpNIV9FlJUgP45qzqqes_pQMJEkZ7DUdioRcNNJuje-fB5I-eqcz7NhHAs3UOYS93IlZ3dNxh1FzOT1t2k1dphW33UifzuT4MYJ9DISfVx4MVIi0FaXBi7B9dA?width=1004&height=635&cropmode=none)
 7. Section
 * Das section-tag enthält laut Spezifikation eine thematische Gruppierung von Inhalten typischerweise mit einer Überschrift.
@@ -177,7 +177,3 @@ Die Lizenzen können kombiniert werden, ein Beispiel dafür ist diese Grafik von
 #### Fallbeispiele
 * Ein Beispiel wäre, wenn ich ein Bild veröffentliche, aber möchte, dass ich als Urheber genannt werde, es nur zu nichtkommerziellen Zwecken genutzt werden soll und es nicht bearbeitet werden darf. Dafür würde ich by-nc-nd verwenden.
 * Ein weiteres Beispiel wäre, wenn ich ein Bild veröffentliche, aber möchte, dass ich als Urheber genannt werde, es nur zu nichtkommerziellen Zwecken genutzt werden soll und unter gleichen Lizenzbedingungen auch nach einer Bearbeitung weitergegeben werden soll. Dafür würde ich by-nc-sa verwenden.
-
-
-
-

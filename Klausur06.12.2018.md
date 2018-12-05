@@ -166,7 +166,7 @@ In Deutschland ist ein Impressum Pflicht wenn man "geschäftsmäßige" Telemedie
 2. Disclaimer (Distanzierung von Links)
 Der Begriff Disclaimer wird im Internetrecht als Fachausdruck für einen Haftungsausschluss verwendet.
 3. Urheberrecht
-Persönlich geistige Schöpfungen werden Besonders Geschützt Bsp. Texte, Photos, Musik, Filme, Pl-Programme, Publikationen.
+Persönlich geistige Schöpfungen werden Besonders Geschützt Bsp. Texte, Photos, Musik, Filme, PC-Programme, Publikationen.
 4. Creative Commons (CC)
 CC sind Standard-Lizenzverträge, mit denen man einfach nutzungsrechte einräumen kann.
 #### Rechtemodule

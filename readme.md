@@ -20,3 +20,4 @@
 + [Atom Editor](https://atom.io/) Herr Ramsl
 + [Naptha](https://projectnaptha.com/) Herr Ramsl
 + [Online Interpreter](http://scratchpad.io)
++ [Hacker News](https://news.ycombinator.com) Herr Ramsl

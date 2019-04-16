@@ -21,3 +21,6 @@
 + [Naptha](https://projectnaptha.com/) Herr Ramsl
 + [Online Interpreter](http://scratchpad.io)
 + [Hacker News](https://news.ycombinator.com) Herr Ramsl
++ [Haroopad](http://pad.haroopress.com/) Marcel
++ [IA Writer](https://ia.net/de/writer) Marcel
++ [Visual Studio Code](https://code.visualstudio.com/) Marcel

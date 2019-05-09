@@ -1,4 +1,4 @@
-# Scrum
+#Scrum
 *Product Owner
 *Entwicklungsteam
 *Scrum Master

@@ -11,3 +11,6 @@ Vor einem Sprint wird ein Sprint Planning angesetzt was sich zeitlich auf 8 Stun
 * Dayli Scrum
 * Sprint Review
 * Sprint-Retrospektive
+
+reflektiert und analysiert der Scrum Master gemeinsam mit Mitgliedern des Scrum Teams. Es Bietet die Möglichekeit Änderungen vorznehmen
+

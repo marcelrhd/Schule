@@ -8,7 +8,7 @@ Sprint oder auch Iteration genannt, sind wiederholbare Arbeitsabläufe die Zeitl
 * Sprint Planning
 
 Vor einem Sprint wird ein Sprint Planning angesetzt was sich zeitlich auf 8 Stunden beschränkt. Dieses dient dazu das Arbeitspaket für den kommenden Sprint vorzubereiten. Das bedeutet wie und was im Nächsten Sprint gemacht wird.
-* Dayli Scrum
+* Daily Scrum
 * Sprint Review
 * Sprint-Retrospektive
 

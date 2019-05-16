@@ -12,5 +12,4 @@ Vor einem Sprint wird ein Sprint Planning angesetzt was sich zeitlich auf 8 Stun
 * Sprint Review
 * Sprint-Retrospektive
 
-reflektiert und analysiert der Scrum Master gemeinsam mit Mitgliedern des Scrum Teams. Es Bietet die Möglichekeit Änderungen vorznehmen
-
+Reflektiert und analysiert der Scrum Master gemeinsam mit Mitgliedern des Scrum Teams. Dabei leiten Teilnehmer aus dem Positiven und negativen Erfahrungen des letzten Sprints Maßnahmen ab. Dadurch steigert sich die Produktivität und reibungslose Zusammenarbeit mit den anderen Stakeholdern. Es bietet die Möglichkeit Änderungen vorzunehmen Änderungen vorzunehmen, um die Qualität der erstellten Software zu verbessern. Zudem lässt sich nicht nur in Scrum, sondern auch in anderen Vorgehensmodellen als Instrument für ein regelmäßiges Feedback des Projektteams einsetzen.
